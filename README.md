@@ -1,5 +1,7 @@
 # 케어퐁 (CarePong)
 
+[![최신 버전](https://img.shields.io/github/v/release/asiae-girls-2026/carepong-releases?display_name=tag&label=%EC%B5%9C%EC%8B%A0%20%EB%B2%84%EC%A0%84&color=2ea44f)](https://github.com/asiae-girls-2026/carepong-releases/releases/latest)
+
 바탕화면에 펫을 띄워 두고, 키보드·마우스 사용 패턴으로 스트레스를 살펴 "쉬어가기"를 권하는 복약·마음관리 Windows 프로그램입니다.
 
 ## 내려받기
